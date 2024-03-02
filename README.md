@@ -1,6 +1,7 @@
 # MindPixels-An-EEG-Image-Database
 A database developed by transforming EEG signals into visual representations using Gramian Angular Fields.
-##Abstact
+## Abstact
+
 In the realm of EEG analysis, the complex nature
 of EEG signals often necessitates their transformation into
 visual formats, thereby facilitating more accessible data analysis.
