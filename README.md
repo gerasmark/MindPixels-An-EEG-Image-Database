@@ -16,3 +16,7 @@ learning techniques for the classification of focal and nonfocal EEG GASF images
 ”MindPixels” database yields promising outcomes, reinforcing its
 potential as an invaluable asset in augmenting the interpretation
 of EEG signals.
+
+## Representation of Focal and Non-Focal EEG signal using GASF
+![ Representation of Focal and Non-Focal EEG signal
+using GASF](gasf_images.png)
